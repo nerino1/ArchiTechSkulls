@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "By nerino1",
+        "name": "ArchiTechs Skulls",
+        "uuid": "e16f5100-8c27-4ace-a752-2bbeaadb56b0",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "description": "By nerino1",
+            "type": "resources",
+            "uuid": "d1818368-cdb5-4788-9278-a21c7d8bee11",
+            "version": [0, 0, 1]
+        }
+    ]
+}

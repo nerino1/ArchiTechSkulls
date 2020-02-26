@@ -1,0 +1,51 @@
+{
+	"format_version": "1.10.0",
+	"geometry.player_head": {
+		"texturewidth": 256,
+		"textureheight": 256,
+		"visible_bounds_width": 2,
+		"visible_bounds_height": 1,
+		"visible_bounds_offset": [0, -1, 0],
+		"bones": [
+			{
+				"name": "head",
+				"pivot": [-0.35, 22.15, -0.9],
+				"cubes": [
+					{"origin": [-16, 12, -16], "size": [32, 32, 32], "uv": [0, 0], "inflate": -11.8}
+				]
+			}
+		]
+	},
+	"geometry.mob_head": {
+		"texturewidth": 256,
+		"textureheight": 256,
+		"visible_bounds_width": 2,
+		"visible_bounds_height": 1,
+		"visible_bounds_offset": [0, -1, 0],
+		"bones": [
+			{
+				"name": "head",
+				"pivot": [-0.35, 22.15, -0.9],
+				"cubes": [
+					{"origin": [-16, 12, -16], "size": [32, 32, 32], "uv": [0, 0], "inflate": -11.8}
+				]
+			}
+		]
+	},
+	"geometry.dragon_head": {
+		"texturewidth": 256,
+		"textureheight": 256,
+		"visible_bounds_width": 2,
+		"visible_bounds_height": 1,
+		"visible_bounds_offset": [0, -1, 0],
+		"bones": [
+			{
+				"name": "head",
+				"pivot": [-0.35, 22.15, -0.9],
+				"cubes": [
+					{"origin": [-16, 13.5, -16], "size": [32, 32, 32], "uv": [0, 0], "inflate": -10.5}										  
+				]
+			}
+		]
+	}
+}
